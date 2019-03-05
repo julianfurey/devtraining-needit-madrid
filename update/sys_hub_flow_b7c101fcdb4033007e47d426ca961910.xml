@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Challenge for Flow Designer Developer Course. </description>
+        <internal_name>challenge_flow</internal_name>
+        <label_cache>[{"name":"dd411e1e-0c99-49da-a834-e62008a70479.Record.number","label":"3➛NeedIt Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_58872_needit_needit_task","column_name":"number"},{"name":"dd411e1e-0c99-49da-a834-e62008a70479.Table","label":"3➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"table_name","base_type":"table_name"},{"name":"dd411e1e-0c99-49da-a834-e62008a70479.Record","label":"3➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"},{"name":"e5ae3b92-061b-4f24-a510-d40914cd372f.calculated_date","label":"2➛Calculated date","type":"datetime","base_type":"datetime"},{"name":"Weekly_1.run_start_time","label":"Trigger➛Run Start Time","type":"glide_date_time","base_type":"glide_date_time"},{"name":"d457a793-aca7-413e-b9e9-536e86f9b541.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"a680e17b-52b6-4fa1-8619-954c2aa0f7f5.Table","label":"1➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"a680e17b-52b6-4fa1-8619-954c2aa0f7f5.Record","label":"1➛Record","reference_display":"Record","type":"document_id","base_type":"document_id"},{"name":"dc063172-87e1-4d9f-9751-d0ae0f9cf4fb.Records","label":"3➛NeedIt Task Records","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"records","base_type":"records"},{"name":"dc063172-87e1-4d9f-9751-d0ae0f9cf4fb.Table","label":"3➛Table","reference_display":"Table","type":"table_name","base_type":"table_name"},{"name":"dc063172-87e1-4d9f-9751-d0ae0f9cf4fb.Count","label":"3➛Count","reference_display":"Count","type":"integer","base_type":"integer"},{"name":"7507b0f9-c2a7-4b78-8af3-7fb1d5a2e4b0.item","label":"4➛Item","reference_display":"Item","type":"document_id","base_type":"document_id"},{"name":"d3add861-6d7e-420a-aa18-792db5e10fa9.follow_up_task","label":"5➛Follow-up task","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task","type":"reference","base_type":"reference"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Challenge Flow</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-05 03:30:17</sys_created_on>
+        <sys_id>b7c101fcdb4033007e47d426ca961910</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Challenge Flow</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_b7c101fcdb4033007e47d426ca961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-05 03:58:11</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=b7c101fcdb4033007e47d426ca961910"/>
+    <sys_variable_value action="delete_multiple" query="document_key=b7c101fcdb4033007e47d426ca961910"/>
+</record_update>
